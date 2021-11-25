@@ -12,6 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaco-Julio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaco-Julio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+## Tecnologia que eu uso no meu dia a dia
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
